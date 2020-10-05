@@ -20,7 +20,7 @@ A user can view profile of different users
 
 -To get to this webpage fist you need to get to my github repository
 
--The link to my github Repository is: https://github.com/Tu276
+-The link to my github Repository is: https://github.com/Tu276/pitches-3
 
 -from there you can access the work
 
